@@ -1,2 +1,1 @@
-web repo
-======
+web example repo
