@@ -1,0 +1,1 @@
+React.js HelloWord Example without JSX (syntax extension to javascript)
